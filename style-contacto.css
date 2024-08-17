@@ -32,6 +32,13 @@ h1 {
   border-radius: 10px;
 }
 
-.btn {
-  color: #bf9a78;
+.icono-redes {
+  width: 2em;
+  height: 2em;
+  margin-right: 10px;
+}
+
+footer {
+  background-color: #add4d9;
+  padding: 10px;
 }

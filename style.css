@@ -68,3 +68,16 @@ h3 {
   background-color: #dedada;
   border-radius: 5px;
 }
+.icono-redes {
+  width: 2em;
+  height: 2em;
+  margin-right: 10px;
+}
+
+#foto-cafe {
+  border-radius: 50%;
+}
+footer {
+  background-color: #add4d9;
+  padding: 10px;
+}
